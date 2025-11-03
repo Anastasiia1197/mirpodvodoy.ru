@@ -9,4 +9,4 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://www.automaticke-otevirani-kufru.cz/sitemap.xml
+Sitemap: https://mirpodvodoy.ru/sitemap.xml
