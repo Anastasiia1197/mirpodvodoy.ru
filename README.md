@@ -1,4 +1,4 @@
-Для сайта https://potolkov163.ru/
+Для сайта https://mirpodvodoy.ru/ 
 
 Без витрины казино (только папка play ссылку поставить https://freshshop.top/qqjrq7)
 Логотип и фавикон cryptoboss
